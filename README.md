@@ -10,10 +10,10 @@ shown in the following example:
 
      1              the problem number p
      110 587        container radius, height
-     10             number of cylinder types n
+     10             number of cylindrical item types m
      1 15 108 20
      2 12 110 11    where there is one line for each cylinder type
      3 ...................
-     etc for n lines
-     The line for each cylinder type contains 4 numbers:                         
-     cylinder type i, cylinder radius, cylinder height, number of cylinders of type i
+     etc for m lines
+     The line for each cylindrical item type contains 4 numbers:                         
+     cylindrical type i, cylindrical radius, cylindrical height, number of cylindrical of type i
